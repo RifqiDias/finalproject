@@ -3,13 +3,18 @@
 Aplikasi tentang resep masakan di dunia yang diambil dari data   https://www.thecocktaildb.com/api.php  (API) kedalam aplikasi ini. 
 
 ## Screenshot
-<!-- <table border="0"> 
+<table border="0"> 
   <tr width="300"> 
-    <td> <img src="https://github.com/ariebhewhe/OSG5ProjectAkhir/blob/master/1.jpeg" /> </td>
-    <td> <img src="https://github.com/ariebhewhe/OSG5ProjectAkhir/blob/master/2.jpeg" /> </td>
-    <td> <img src="https://github.com/ariebhewhe/OSG5ProjectAkhir/blob/master/3.jpeg" /> </td>
+    <td> <img src="https://github.com/RifqiDias/finalproject/blob/master/1.jpeg" /> </td>
+     <td> <img src="https://github.com/RifqiDias/finalproject/blob/master/2.jpeg" /> </td>
+      <td> <img src="https://github.com/RifqiDias/finalproject/blob/master/3.jpeg" /> </td>
+       <td> <img src="https://github.com/RifqiDias/finalproject/blob/master/4.jpeg" /> </td>
+        <td> <img src="https://github.com/RifqiDias/finalproject/blob/master/5.jpeg" /> </td>
+         <td> <img src="https://github.com/RifqiDias/finalproject/blob/master/6.jpeg" /> </td>
   </tr>
- </table> -->
+ </table>
+
+ https://github.com/RifqiDias/finalproject
 
 
 
